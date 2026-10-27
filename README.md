@@ -990,4 +990,30 @@ An exhaustive, curated collection of top-tier tools, frameworks, libraries, APIs
 
 * [**sbilly/awesome-security**](https://github.com/sbilly/awesome-security) – Collection of awesome software, libraries, documents, books, and resources regarding security.
 
+---
+
+## License
+
+No license has been specified in the provided project description.
+
+If you intend to distribute Slate as an open-source project, add a `LICENSE` file and update this section accordingly.
+
+---
+
+## Contact & Support
+
+- **Maintainer:** [@nowii-core](https://github.com/nowii-core)
+- **Repository:** Add the Slate repository URL.
+- **Issues & Feature Requests:** Open an issue in the repository once its URL is configured.
+
+---
+
+<div align="center">
+
+
+<sub>Developed by <a href="https://github.com/nowii-core"><b>nowii-core</b></a></sub>
+
+</div>
+
+
 *Contributions, updates, and pull requests are always* 
