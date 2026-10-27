@@ -1014,6 +1014,3 @@ If you intend to distribute Slate as an open-source project, add a `LICENSE` fil
 <sub>Developed by <a href="https://github.com/nowii-core"><b>nowii-core</b></a></sub>
 
 </div>
-
-
-*Contributions, updates, and pull requests are always* 
