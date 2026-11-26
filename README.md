@@ -856,6 +856,8 @@ An exhaustive, curated collection of top-tier tools, frameworks, libraries, APIs
 
 * [**VictoriaMetrics**](https://victoriametrics.com/) – Fast, cost-effective time-series database and monitoring solution.
 
+* [**SiteWatcher**](https://github.com/NikKurkov/sitewatcher) – Self-hosted website uptime and response-time monitoring with TLS and domain expiry alerts.
+
 ###  Error Tracking & Log Management
 
 * [**Sentry**](https://sentry.io/) – Application performance monitoring and code-level error tracking.
